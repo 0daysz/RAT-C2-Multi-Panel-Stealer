@@ -89,3 +89,15 @@ https://t.me/lPZF909999
 
 tox:
 A6745F3D67B868CFA388B77B2D4575DD15091A7D32D9A0EBF1DA52C0D6C03E247D827DF86C97
+
+### 🛡️ Core ###
+
+| :--- | :--- |
+| **Rust** | `![Rust](https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge&logo=rust)` |
+| **Python** | `![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)` |
+| **C++** | `![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)` |
+| **C#** | `![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)` |
+| **JavaScript** | `![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)` |
+| **Metasploit** | `![Metasploit](https://img.shields.io/badge/Tool-Metasploit-E51919?style=for-the-badge&logo=metasploit&logoColor=white)` |
+| **Exploit Dev** | `![Exploit Development](https://img.shields.io/badge/Focus-Exploit%20Dev-5C5F77?style=for-the-badge&logo=bug&logoColor=white)` |
+| **Red Team** | `![Red Team](https://img.shields.io/badge/Domain-Red%20Team-A1283B?style=for-the-badge&logo=kofi&logoColor=white)` |
