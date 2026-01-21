@@ -83,9 +83,8 @@ Group tagging (e.g., “Miners”, “USA”)
 
 <<<<>>>>
 
-Contacts:
-tg:
-https://t.me/lPZF909999
+Session:
+0538816cb520df5da01129a68b0c88c96e2cac48ae6b6347e2ac6cdc5a08d75f6d
 
 tox:
 A6745F3D67B868CFA388B77B2D4575DD15091A7D32D9A0EBF1DA52C0D6C03E247D827DF86C97
